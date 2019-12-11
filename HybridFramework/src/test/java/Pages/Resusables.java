@@ -21,7 +21,7 @@ public class Resusables {
 	
 	
 	public String  readProperties(String property){
-		//---------------Setting the file path--------> 
+		//---------------Setting the file path in properties--------> 
 		File file = new File("E:\\SeleniumProjects\\HybridFramework\\ObjectRepository\\ObjectRepository.properties");
 		//----------Converting into byte to read the file-------------------------->////
 		try{
